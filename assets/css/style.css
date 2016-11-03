@@ -1,0 +1,48 @@
+header{
+	font-size: 36px;
+}
+
+footer{
+	text-align: center;
+}
+
+.top{
+	padding-top: 15px;
+}
+
+#stack{
+	padding-left: 15px;
+	width: 65px; height: 50px;
+}
+
+body{
+	background-image: url("../images/austin1.jpg");
+}
+
+h1{
+	color: white;
+}
+
+p{
+	color: white;
+	font-weight: bold;
+}
+
+h2{
+	color: white;
+}
+
+.form{
+	color: white;
+	font-weight: bold;
+}
+
+form{
+	text-align: center;
+}
+
+#submit{
+	text-align: center;
+	font-size: 30px;
+	font-weight: bold;
+}
